@@ -1,0 +1,16 @@
+.classImpar{
+    background: pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+#idUm{
+    color:blue;
+    font-size: 36px;
+}
+.classTamFonte{
+    font-size:24px;
+}
+#idDois{
+    background: lightgreen;
+    font-size:24px;
+    font-weight:700;
+}
