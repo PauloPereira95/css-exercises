@@ -1,0 +1,12 @@
+.classBtn1,
+.classBtn2 {
+    font-size:28px;
+    font-family: Helvetica,'Times New Roman', sans-serif
+}
+.classBtn1 {
+    background:black;
+    color:white;
+}
+.classBtn2 {
+    background:yellow;
+}
